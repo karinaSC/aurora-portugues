@@ -1,0 +1,72 @@
+SISTEMAS BASEADOS EM AI, Em um sistema 
+baseado em AI usando Machine Learning (ML), padrões de dados são usados pelo sistema para 
+determinar como ele deve reagir no futuro a novos dados. 
+
+*Teste do Modelo de ML
+
+
+Fluxo de Diálogo 
+* Test in PVA - Universal bot/Language Identifier 
+* Test in PVA -> RH
+* Test in PVA -> Procurement 
+* Test in PVA -> IT     
+
+Método de teste: API Direct Line -> conexão direto com o bot.
+
+Componente AI 
+Teste NLP
+* LUIS? - Não definido
+
+Método de Teste: Não definido. 
+
+
+Tipos de Teste do Bot ->
+
+* Fluxo de conversação 
+* NLP Score: entender a intenção da conversa e também responder às consultas do seu usuário. ornecer taxas de precisão mais altas em cada resposta
+* Precisão mais altas em cada resposta, deve-se primeiro entender o novo perímetro dos bots e realizar testes neles. 
+
+
+ABI 
+DIGITAL 
+
+61% - QNA (perguntas)
+80% sobre RH E TI 
+
+
+-> RESPONSABILIDADE DAS PARTES
+-> DADOS E INFORMAÇÕES DISPONÍVEIS (AI)
+
+
+REQUISITOS DO cliente
+
+BOT HUMANIZADO -> MODELO COGNITIVO. 
+TOM DE VOZ, PERSONALIDADO.
+
+REMOVER LIMITAÇÃO DA STELLAR
+
+
+
+- como serão as entregas para o teste?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
